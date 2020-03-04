@@ -1,7 +1,7 @@
 ﻿CREATE TABLE [dbo].[Vendor] (
   [ID] [int] IDENTITY,
-  [PersonID] [int] NULL, 
-  [AccountNumber] [nvarchar](25) NULL,
+  [PersonID] [int] NOT NULL, 
+  [AccountNumber] [nvarchar](25) NOT NULL,
   [Email] [nvarchar](50) NULL,
   [Phone] [nvarchar](50) NULL,
   CONSTRAINT [PK_Vendor] PRIMARY KEY CLUSTERED ([ID])
