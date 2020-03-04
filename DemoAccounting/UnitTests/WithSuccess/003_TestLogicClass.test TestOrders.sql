@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [TestLogicClass].[test TestVendor]
+﻿CREATE PROCEDURE [TestLogicClass].[test TestOrders]
 AS
 BEGIN
   -- Here must be your logic
