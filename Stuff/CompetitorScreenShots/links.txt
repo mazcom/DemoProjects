@@ -1,0 +1,5 @@
+--Create an Azure DevOps Project for SQL Change Automation
+https://www.youtube.com/watch?v=aR5IHfHvh98
+
+
+https://www.youtube.com/watch?v=V7XKEPh2oLk
