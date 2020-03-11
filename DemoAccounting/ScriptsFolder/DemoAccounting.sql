@@ -35,7 +35,7 @@ ALTER DATABASE [ScriptsFolder]
 GO
 
 ALTER DATABASE [ScriptsFolder]
-  COLLATE Cyrillic_General_CI_AS
+  COLLATE SQL_Latin1_General_CP1_CI_AS
 GO
 
 ALTER DATABASE [ScriptsFolder]
